@@ -7,15 +7,15 @@
 <p align="left"> <a href="https://twitter.com/ethcode" target="blank"><img src="https://img.shields.io/twitter/follow/ethcode?logo=twitter&style=for-the-badge" alt="ethcode" /></a> </p>
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning backend development & web3.
-- 💬 Ask me about backend development & web3
+- 🌱 I’m currently learning **web3 & rust**.
+- 💬 Ask me about **backend development & web3**
 - 📫 How to reach me: **https://twitter.com/ethcode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ethcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robogajesh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gajesh s naik" height="30" width="40" /></a>
-<a href="https://discord.gg/Ξthcode#7456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gajesh2007#0896" height="30" width="40" /></a>
+<a href="https://twitter.com/ethcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ethcode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Programando con Andres" height="30" width="40" /></a>
+<a href="https://discord.gg/Ξthcode#7456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ξthcode#7456" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethcode1&show_icons=true&locale=en&layout=compact" alt="Ξthcode" /></p>
