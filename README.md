@@ -1,4 +1,4 @@
-<h1 align="center">Gm 👋, I'm @Ξthcode 🦇🔊</h1>
+<h1 align="center">Gm 👋, I'm Andres</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethcode1&label=Profile%20views&color=0e75b6&style=flat" alt="Ξthcode" /> </p>
 
@@ -17,6 +17,7 @@
 <a href="https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Programando con Andres" height="30" width="40" /></a>
 <a href="https://discord.gg/Ξthcode#7456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ξthcode#7456" height="30" width="40" /></a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethcode1&show_icons=true&locale=en&layout=compact" alt="Ξthcode" /></p>
 
