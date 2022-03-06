@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/ethcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ethcode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMsffGZQyaHJSrOs6xp_-Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Programando con Andres" height="30" width="40" /></a>
-<a href="https://discord.gg/Ξthcode#7456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ξthcode#7456" height="30" width="40" /></a>
+<a href="https://discord.gg/andresmayorca#7456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="andresmayorca#7456" height="30" width="40" /></a>
 </p>
 
 
