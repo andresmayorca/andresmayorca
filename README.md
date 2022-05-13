@@ -7,12 +7,14 @@
 <p align="left"> <a href="https://twitter.com/ethcode" target="blank"><img src="https://img.shields.io/twitter/follow/ethcode?logo=twitter&style=for-the-badge" alt="ethcode" /></a> </p>
 
 - 🔭 I’m currently working on Blockchain.
-- 🌱 I’m currently learning Solidity & Rust
-- 💬 Ask me about Soldity, Python, TypeScript, Javascript
-- 📫 How to reach me: https://twitter.com/ethcode
-- 📄 Know about my experiences https://andresmayorca.vercel.app
 
-Connect with me:
+- 🌱 I’m currently learning Solidity & Rust
+
+- 💬 Ask me about Soldity, Python, TypeScript, Javascript
+
+- 📫 How to reach me: https://twitter.com/ethcode
+
+- 📄 Know about my experiences https://andresmayorca.vercel.app
 
 
 <h3 align="left">Connect with me:</h3>
