@@ -9,3 +9,10 @@ Some of the personal projects are:
 - [Quadratic-Voting-With-Superfluid-Stream-Implementation](https://github.com/andresmayorca/Quadratic-Voting-With-Superfluid-Stream) - In this project I developed an implementation of superfluid streams with gitcoin quadratic voting rounds.
 - [nft-dapp](https://github.com/andresmayorca/nft-dapp/blob/main/contracts/MyNFT.sol) - NFT'S minting contract
 - [creyoncitosmagicos-web](https://github.com/andresmayorca/creyoncitosmagicos-web) - Website developed with django to set up courses, blogs and more.
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresmayorca&show_icons=true&locale=en&layout=compact" alt="andresmayorca" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresmayorca&show_icons=true&locale=en" alt="andresmayorca" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresmayorca&" alt="andresmayorca" /></p>
