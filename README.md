@@ -1,5 +1,5 @@
 ## Hello there, I'm [Andres](https://twitter.com/andrwmayorca) 
 
-I'm a 18 y/o developer, and I love building things.
+I'm AI Analyst at Espacio Media
 
-I am a blockchain technology lover, I am currently developing a lending and borrowing protocol in fuel and collaborating with fuel network as an ambassador.
+AI specialist focused on interpreting data, evaluating models, and translating complex results into clear decisions for business and technology teams.
