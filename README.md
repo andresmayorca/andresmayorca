@@ -1,4 +1,4 @@
-## Hello there, I'm [Andres](https://twitter.com/andrwmayorca) 
+## Hello there, I'm [Andres](https://x.com/andrwmayorca) 
 
 I'm AI Analyst at Espacio Media
 
